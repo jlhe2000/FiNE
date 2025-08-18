@@ -1,1 +1,1 @@
-Code and Data will be available soon.
+- FiNE-alpaca is now available!
