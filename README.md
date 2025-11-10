@@ -1,4 +1,3 @@
-cat FiNE/README.md
 # FiNE: Filtering and Improving Noisy Data Elaborately with Large Language Models
 
 [![Paper — NAACL 2025](https://img.shields.io/badge/Paper-NAACL%202025-blue)](https://aclanthology.org/2025.naacl-long.437/)
